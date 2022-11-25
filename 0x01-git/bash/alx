@@ -1,4 +1,3 @@
 #!/bin/bash
-echo "The ALX School is o cool"
+echo "The ALX School is so cool"
 echo "ALX School"
->>>>>>> update_script
